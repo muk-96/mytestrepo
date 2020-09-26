@@ -4,5 +4,8 @@ class HelloWorld{
 	{
 		for(int i=0; i<3; i++)
 			System.out.println("Hello World in the crazy-experiment branch\n");
+
+		//1. This is first change. I made this inside first-branch
+		//2. This is second change.
 	}
 }
